@@ -12,7 +12,7 @@
  */
 int main(void)
 {
-    printf("helloworld");
+    printf("helloworld\r\n");
     
     return 0;
 }
